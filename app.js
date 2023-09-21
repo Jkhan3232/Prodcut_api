@@ -1,7 +1,7 @@
 // Import required modules
 const express = require("express");
 const app = express();
-const port = 8000;
+const port = 8000 || process.env.port
 require("dotenv").config() // Load environment variables
 
 // Middleware to parse JSON bodies from HTTP requests
