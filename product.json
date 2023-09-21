@@ -1,0 +1,146 @@
+[
+    {
+        "name": "iPhone15",
+        "price": 799999,
+        "featured": true,
+        "company": "apple",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "iPhone14",
+        "price": 599999,
+        "featured": true,
+        "company": "apple",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "iPhone13",
+        "price": 499999,
+        "featured": true,
+        "company": "apple",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "GalaxyS23Ultra",
+        "price": 1200000,
+        "featured": false,
+        "company": "samsung",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "GalaxyS23Plus",
+        "price": 80000,
+        "featured": false,
+        "company": "samsung",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "GalaxyS23",
+        "price": 60000,
+        "featured": false,
+        "company": "samsung",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "MotoG84",
+        "price": 18000,
+        "featured": true,
+        "company": "moto",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "MotoEdge40",
+        "price": 290000,
+        "featured": false,
+        "company": "moto",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "MotoEdgeUltra",
+        "price": 500000,
+        "featured": false,
+        "company": "moto",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "Nothing Phone(1)",
+        "price": 26000,
+        "featured": false,
+        "company": "nothing",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21.",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403"
+    },
+    {
+        "name": "Nothing Phone(2)",
+        "price": 39000,
+        "featured": false,
+        "company": "nothing",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21.",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403"
+    },
+    {
+        "name": "VivoV29",
+        "price": 35000,
+        "featured": false,
+        "company": "vivo",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "VivoV29e",
+        "price": 30000,
+        "featured": false,
+        "company": "vivo",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "Xiomi13Iltra",
+        "price": 50000,
+        "featured": false,
+        "company": "mi",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "RedmiNote12",
+        "price": 20000,
+        "featured": false,
+        "company": "mi",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "OnePlus11",
+        "price": 55000,
+        "featured": false,
+        "company": "oneplus",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "OnePlus11R",
+        "price": 39000,
+        "featured": false,
+        "company": "oneplus",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    },
+    {
+        "name": "OnePlusNord3",
+        "price": 33000,
+        "featured": false,
+        "company": "oneplus",
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693063160403",
+        "description": "Smartphones This category includes high-end phones with advanced features like high-resolution cameras, large displays, and powerful processors. Examples include the iPhone 15 and Galaxy S21."
+    }
+]
