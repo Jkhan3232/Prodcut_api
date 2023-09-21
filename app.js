@@ -13,6 +13,10 @@ const router = require("./Router/route");
 // Define route for product API
 app.use("/api/product", router);
 
+app.get('/', (req, res) => {
+    res.send("Hi am Live")
+})
+
 // Middleware to parse URL-encoded bodies from HTTP requests
 app.use(express.urlencoded({ extended: false }));
 
@@ -25,7 +29,7 @@ const server = async () => {
     try {
         // Start server on defined port
         app.listen(port, () => {
-            console.log("server start on port 8000..");
+            console.log(`server start on port ${port}`);
         })
     } catch (error) {
         // Log any server start errors

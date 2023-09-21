@@ -6,7 +6,7 @@ const { createProduct, getProduct, updateProduct, deleteProduct, getAllProduct }
 const router = express.Router();
 
 // Define route to get all products
-router.route("/get").get(getAllProduct)
+router.route("/").get(getAllProduct)
 
 // Define route to create a new product
 router.route("/create").post(createProduct)
